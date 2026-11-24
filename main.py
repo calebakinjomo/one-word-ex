@@ -1,3 +1,8 @@
+"""One Word From Your Ex — make.fun one-word entry.
+
+Prints the word and writes it to entry.txt.
+"""
+
 import os
 
 WORD = "warmup"
